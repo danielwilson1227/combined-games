@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="author" content="Daniel Wilson">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Let's Play Hangman!</title>
+  <link rel="stylesheet" href="css/hangman-style.css">
+  <link rel="stylesheet" media="screen and (max-width: 754px)" type="text/css" href="css/hangman-mobile.css">
+</head>
+<body>
+  <header id="full-container">
+    <div id="header">
+  <h1 class="title">Lets Play Hangman</h1>
+  <form id="formID">
+    <input type="text" placeholder="Type letter & Enter" class="search" onkeydown="search(this)"/> 
+    <div id="error"></div>
+  </form>
+</div>
+<div id="container">
+  <div id="buttons">
+    <button id="instructions-btn">Instructions</button>  
+    <button id= "refresh" onClick="window.location.reload();">Play again</button>
+    </div>
+  <div id="hang">
+  <img id="hanger" src="/images/0.jpg" alt="picture">
+  <div id="div1"></div>
+  <h3 class="h3"></h3>
+  <h5 id="countdown"></h5>
+  <h1 class="win"></h1>
+</div>
+<div id="instruct-container">  
+  <div class="instructions-content">
+ <span class="close">&times;</span>
+ <h6 id="instructions-text"></h6>  
+</div>
+</div>
+<img id='winnerImage' src="https://media.giphy.com/media/cOtvwSHKaFK3Ul1VVu/giphy.gif" alt="picture">
+<img id='loserImage' src="https://media.giphy.com/media/P53TSsopKicrm/giphy.gif" alt="picture">
+</div>
+</header>
+ <script src="JS files/hangman.js"></script>
+</body>
+</html>

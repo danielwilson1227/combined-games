@@ -1,0 +1,92 @@
+[
+	{
+		"questionNum": "1",
+		"question": "What kind of scientist is Whiplash from Iron Man 2?",
+		"answer": "Physicist",
+		"choice1": "Chemist",
+		"choice2": "Physicist",
+		"choice3": "Geneticist",
+		"choice4": "Engineer"
+	},
+	{
+		"questionNum": "2",
+		"question": "Where does Black Widow locate Dr. Bruce Banner in the first Avengers film.",
+		"answer": "India",
+		"choice1": "India",
+		"choice2": "Honduras",
+		"choice3": "Brazil",
+		"choice4": "Iran"
+	},
+	{
+		"questionNum": "3",
+		"question": "How did Peter Quill’s mother die?",
+		"answer": "Brain Cancer",
+		"choice1": "Car Accident",
+		"choice2": "Pneumonia",
+		"choice3": "Brain Cancer",
+		"choice4": "During an epic battle"
+	},
+	{
+		"questionNum": "4",
+		"question": "Which Infinity Stone does Thanos get first?",
+		"answer": "Power",
+		"choice1": "Space",
+		"choice2": "Power",
+		"choice3": "Soul",
+		"choice4": "Reality"
+	},
+	{
+		"questionNum": "5",
+		"question": "Which Avenger represents the color scheme shown on this webpage?",
+		"answer": "Captain Marvel",
+		"choice1": "Captain America",
+		"choice2": "Ant-Man",
+		"choice3": "Spider-Man",
+		"choice4": "Captain Marvel"
+	},
+	{
+		"questionNum": "6",
+		"question": "The Avengers discover that S.H.I.E.D. wished to obtain the Tesseract for which of these?",
+		"answer": "Development of Weapons",
+		"choice1": "Unlimited power",
+		"choice2": "Currency with alien races",
+		"choice3": "Wormhole technology",
+		"choice4": "Development of Weapons"
+	},
+	{
+		"questionNum": "7",
+		"question": "Besides the Guardians who else speaks Groot?",
+		"answer": "Thor",
+		"choice1": "Korg",
+		"choice2": "Captain Marvel",
+		"choice3": "Thor",
+		"choice4": "Loki"
+	},
+	{
+		"questionNum": "8",
+		"question": "Who, as is discovered, is the guardian of the Soul Stone?",
+		"answer": "Red Skull",
+		"choice1": "Red Raven",
+		"choice2": "Red Skull",
+		"choice3": "Omega Red",
+		"choice4": "Red Guardian"
+	},
+	{
+		"questionNum": "9",
+		"question": "On Nidavellir, who fashioned a handle for Thor’s new axe called Stormbreaker?",
+		"answer": "Groot",
+		"choice1": "Rocket",
+		"choice2": "Eitri",
+		"choice3": "Groot",
+		"choice4": "Starlord"
+	},
+	{
+		"questionNum": "10",
+		"question": "In Avengers: Age of Ultron, who gives their life to protect another Avenger during the final battle?",
+		"answer": "Pietro Maximoff",
+		"choice1": "Phil Coulson",
+		"choice2": "Heimdall",
+		"choice3": "Loki",
+		"choice4": "Pietro Maximoff"
+	}
+]

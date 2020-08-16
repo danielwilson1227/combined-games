@@ -1,0 +1,92 @@
+[
+	{
+		"questionNum": "1",
+		"question": "What weapon does Thor carry?",
+		"answer": "A hammer",
+		"choice1": "A sword",
+		"choice2": "A hammer",
+		"choice3": "A bow and arrow",
+		"choice4": "A crossbow"
+	},
+	{
+		"questionNum": "2",
+		"question": "What is the name of Black Panther’s home Country?",
+		"answer": "Wakanda",
+		"choice1": "Chad",
+		"choice2": "Uganda",
+		"choice3": "Wakanda",
+		"choice4": "Rwanda"
+	},
+	{
+		"questionNum": "3",
+		"question": "How many Infinity Stones are there",
+		"answer": "Six",
+		"choice1": "Five",
+		"choice2": "Six",
+		"choice3": "Four",
+		"choice4": "Three"
+	},
+	{
+		"questionNum": "1",
+		"question": "Which of the following characters can’t pick up Thor’s hammer?",
+		"answer": "Loki",
+		"choice1": "Thor",
+		"choice2": "Captain America",
+		"choice3": "Vision",
+		"choice4": "Loki"
+	},
+	{
+		"questionNum": "5",
+		"question": "What is Clint Barton’s superhero name?",
+		"answer": "Hawkeye",
+		"choice1": "Hawkman",
+		"choice2": "Green Arrow",
+		"choice3": "Falcon",
+		"choice4": "Hawkeye"
+	},
+	{
+		"questionNum": "6",
+		"question": "Which beloved comic book writer has cameoed in every Marvel movie up to Avengers: Endgame?",
+		"answer": "Stan Lee",
+		"choice1": "Frank Millar",
+		"choice2": "Alan Moore ",
+		"choice3": "Stan Lee",
+		"choice4": "John Byrne"
+	},
+	{
+		"questionNum": "7",
+		"question": "Who Killed Tony Stark’s parents?",
+		"answer": "The Winter Soldier",
+		"choice1": "The Winter Soldier",
+		"choice2": "Mandarin",
+		"choice3": "Whiplash ",
+		"choice4": "Obadiah Stane"
+	},
+	{
+		"questionNum": "8",
+		"question": "What is the name of the organization revealed to have taken over S.H.I.E.L.D in Captain America: The Winter Soldier?",
+		"answer": "Hydra",
+		"choice1": "The Hand",
+		"choice2": "A.I.M",
+		"choice3": "Hydra",
+		"choice4": "Masters of Evil"
+	},
+	{
+		"questionNum": "9",
+		"question": "What is the name of Thor’s father?",
+		"answer": "Odin",
+		"choice1": "Odin",
+		"choice2": "Loki ",
+		"choice3": "Tyr",
+		"choice4": "Zeus"
+	},
+	{
+		"questionNum": "10",
+		"question": "Complete the quote from Tony Stark’s daughter: I love you-",
+		"answer": "3000",
+		"choice1": "Tons",
+		"choice2": "3000",
+		"choice3": "So much",
+		"choice4": "300"
+	}
+]

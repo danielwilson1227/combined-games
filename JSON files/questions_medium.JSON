@@ -1,0 +1,92 @@
+[
+	{
+		"questionNum": "1",
+		"question": "Who is the first Avenger?",
+		"answer": "Captain America",
+		"choice1": "Black Widow",
+		"choice2": "Iron man",
+		"choice3": "Hulk",
+		"choice4": "Captain America"
+	},
+	{
+		"questionNum": "2",
+		"question": "The Tesseract is the ________ Stone.",
+		"answer": "Space",
+		"choice1": "Power",
+		"choice2": "Reality",
+		"choice3": "Space",
+		"choice4": "Time"
+	},
+	{
+		"questionNum": "3",
+		"question": "What is Captain America’s shield made out of?",
+		"answer": "Vibranium",
+		"choice1": "Vibranium",
+		"choice2": "Unobtanium",
+		"choice3": "Plutonium",
+		"choice4": "Adamantium"
+	},
+	{
+		"questionNum": "4",
+		"question": "What species is Loki?",
+		"answer": "Frost Giant",
+		"choice1": "Asgardian",
+		"choice2": "Kree",
+		"choice3": "Xandarian",
+		"choice4": "Frost Giant"
+	},
+	{
+		"questionNum": "5",
+		"question": "Who does not disappear from “The Snap”?",
+		"answer": "Vision",
+		"choice1": "Vision",
+		"choice2": "T’Challa",
+		"choice3": "Starlord",
+		"choice4": "Groot"
+	},
+	{
+		"questionNum": "6",
+		"question": "In the Captain Marvel film, what is the name of that cat that plays a major role in the movie?",
+		"answer": "Goose",
+		"choice1": "Chewy",
+		"choice2": "Goose",
+		"choice3": "Moose",
+		"choice4": "Fury"
+	},
+	{
+		"questionNum": "7",
+		"question": "Which Marvel character said “We know each other. He’s a friend from work.”",
+		"answer": "Thor",
+		"choice1": "Bruce Banner",
+		"choice2": "Thor",
+		"choice3": "Tony Stark",
+		"choice4": "Black Widow"
+	},
+	{
+		"questionNum": "8",
+		"question": "What is the relation between Black Panther and Killmonger?",
+		"answer": "Cousins",
+		"choice1": "Father and son",
+		"choice2": "Brothers",
+		"choice3": "Cousins",
+		"choice4": "Domestic partners"
+	},
+	{
+		"questionNum": "9",
+		"question": "Why can’t Black Widow have children?",
+		"answer": "She was sterilized",
+		"choice1": "She's born sterile",
+		"choice2": "She was sterilized",
+		"choice3": "She got shot",
+		"choice4": "Her contract disallows it"
+	},
+	{
+		"questionNum": "10",
+		"question": "Which character is the daughter of Thanos?",
+		"answer": "Nebula",
+		"choice1": "Valkyrie",
+		"choice2": "Sif",
+		"choice3": "Nebula",
+		"choice4": "Mantis"
+	}
+]

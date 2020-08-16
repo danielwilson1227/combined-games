@@ -1,0 +1,1 @@
+A word is randomly generated and the letters are hidden inside the pink solid squares. Guess letters that might be in the hidden word. After 8 failed attempts you lose the game. The letters incorrectly guessed are displayed below the pink squares. The words are the names of films. Reveal the name of the film before the timer runs out. Click on "Play again" to play another game. 
