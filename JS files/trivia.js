@@ -171,7 +171,7 @@ function finishedChecker (){
 		difficultyBTNS.style.display = 'none';
 		chooseDiffText.innerText = 'Thanks For Playing!';
 		refreshBTN.style.display = 'block';
-		instructionsBTN.innerHTML = '<a class="switcher" href="hangman.html">Click Here to Play Hangman</a>';
+		instructionsBTN.innerHTML = '<a class="switcher" href="index.html">Click Here to Play Hangman</a>';
 		instructionsBTN.style.height = '4rem';
 		instructionsBTN.removeEventListener('click', showInstructions);
 	}
