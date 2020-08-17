@@ -81,10 +81,15 @@ let words = [
 	'salt',
 	'blade',
 	'mowgli',
-	'bolt'
+	'bolt',
+	'rambo',
+	'click',
+	'glory',
+	'rango',
+	'turbo'
 ];
 
-let rand = Math.floor(Math.random() * 32) + 1;
+let rand = Math.floor(Math.random() * 37) + 1;
 let word = words[rand].toUpperCase();
 
 function search (letter){
@@ -191,6 +196,7 @@ function loadGameBTN (){
 	instructionsBTN.style.height = '3rem';
 	instructionsBTN.style.padding = 0;
 	instructionsBTN.removeEventListener('click', loadInstructions);
+
 
 		window.innerWidth < 500 ? (instructionsBTN.style.height = '4rem') :
 		(instructionsBTN.style.height = '3rem');
